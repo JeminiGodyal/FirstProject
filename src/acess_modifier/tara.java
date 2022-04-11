@@ -18,7 +18,7 @@ public class tara
 		System.out.println(obj.b);
 		System.out.println(obj.c);
 		System.out.println(obj.d);
-
+		System.out.println("iam so beautiful");
 	}
 
 	public void test1()
