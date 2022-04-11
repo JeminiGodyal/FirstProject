@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[initializing chrome driver]]>
+    </line>
+    <line>
+      <![CDATA[driver initialized successfully]]>
+    </line>
+    <line>
+      <![CDATA[entering url]]>
+    </line>
+    <line>
+      <![CDATA[Taken url successfully]]>
+    </line>
+    <line>
+      <![CDATA[launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[entering UID]]>
+    </line>
+    <line>
+      <![CDATA[entered UID]]>
+    </line>
+    <line>
+      <![CDATA[entered PWD]]>
+    </line>
+    <line>
+      <![CDATA[validating please wait]]>
+    </line>
+    <line>
+      <![CDATA[succefully validated]]>
+    </line>
+    <line>
+      <![CDATA[successfully logged out]]>
+    </line>
+    <line>
+      <![CDATA[browser is successfully closed]]>
+    </line>
+    <line>
+      <![CDATA[closing browser succefully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-11T00:45:00 IST" name="Default suite" finished-at="2022-04-11T00:45:11 IST" duration-ms="10963">
+    <groups>
+    </groups>
+    <test started-at="2022-04-11T00:45:00 IST" name="Default test" finished-at="2022-04-11T00:45:11 IST" duration-ms="10963">
+      <class name="TestNG_Package.TestNG_usingproperties">
+        <test-method is-config="true" signature="BrowserLaunching()[pri:0, instance:TestNG_Package.TestNG_usingproperties@38cee291]" started-at="2022-04-11T00:45:00 IST" name="BrowserLaunching" finished-at="2022-04-11T00:45:07 IST" duration-ms="6617" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[initializing chrome driver]]>
+            </line>
+            <line>
+              <![CDATA[driver initialized successfully]]>
+            </line>
+            <line>
+              <![CDATA[entering url]]>
+            </line>
+            <line>
+              <![CDATA[Taken url successfully]]>
+            </line>
+            <line>
+              <![CDATA[launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunching -->
+        <test-method is-config="true" signature="enterLogin()[pri:0, instance:TestNG_Package.TestNG_usingproperties@38cee291]" started-at="2022-04-11T00:45:07 IST" name="enterLogin" finished-at="2022-04-11T00:45:08 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[entering UID]]>
+            </line>
+            <line>
+              <![CDATA[entered UID]]>
+            </line>
+            <line>
+              <![CDATA[entered PWD]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterLogin -->
+        <test-method signature="validateUserID()[pri:0, instance:TestNG_Package.TestNG_usingproperties@38cee291]" started-at="2022-04-11T00:45:08 IST" name="validateUserID" finished-at="2022-04-11T00:45:09 IST" duration-ms="1698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[validating please wait]]>
+            </line>
+            <line>
+              <![CDATA[succefully validated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserID -->
+        <test-method is-config="true" signature="enterLogoutbutton()[pri:0, instance:TestNG_Package.TestNG_usingproperties@38cee291]" started-at="2022-04-11T00:45:09 IST" name="enterLogoutbutton" finished-at="2022-04-11T00:45:11 IST" duration-ms="1320" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successfully logged out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterLogoutbutton -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:TestNG_Package.TestNG_usingproperties@38cee291]" started-at="2022-04-11T00:45:11 IST" name="closingBrowser" finished-at="2022-04-11T00:45:11 IST" duration-ms="456" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is successfully closed]]>
+            </line>
+            <line>
+              <![CDATA[closing browser succefully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- TestNG_Package.TestNG_usingproperties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
